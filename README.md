@@ -1,0 +1,2 @@
+# CHatGPTarot
+ChatGPTarot Privacy Policy
